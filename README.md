@@ -1,3 +1,7 @@
+Thank you, DartNode, for your support of this open-source project.
+
+<a href="https://dartnode.com/"><img src="https://ipic.hz.cz/file/850cffe77314aa671ba39.png"></img></a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
